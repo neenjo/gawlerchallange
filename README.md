@@ -26,7 +26,7 @@ Create a new virtualenv. Ensure to point the python arg to the right interpreter
     Installing setuptools, pip, wheel...  
     done.  
 
-Activate the virtualenv and install jupyter, fossil and so forth locally into the environment.
+Activate the virtualenv and install jupyter, folium and so forth locally into the environment.
 
     $ source VENV/bin/activate  
 
