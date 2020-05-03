@@ -41,11 +41,14 @@ Project Organization
 --------
  
     ├── README.md                          <- The top-level README for developers using this project.
-    ├── Figures                            <- Analysis Figures
-    │   ├── Gold Bar graph                 <- Bar graph for gold element
-    │   └── map gold                       <- Gold on SA Map
-    ├── Notebooks                          <- Tutorial notebooks
-    │   └── MineralDepositsPreprocessing   <- MineralDeposit Data Engineering Jupyter Notebook
+                         
+    ├── Notebooks                          <- Tutorial notebooks   
+    │   ├── MineralDepositsPreprocessing   <- MineralDeposit Data Engineering Jupyter Notebook
+    │   ├── data     
+    |   |   └── SARIG_Data_Package         <- Data from SARIG Package
+    │   └── Figures                        <- Analysis Figures
+    |        ├── Gold Bar graph            <- Gold on SA Map
+    |        └── map gold  
     ├── cleaned_datasets                   <- 10 different CSVs for top 10 elements
     │   ├── Calcrete   
     │   ├── Clay 
