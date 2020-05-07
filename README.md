@@ -1,8 +1,11 @@
-EXPLORESA #Gawler Challenge
+EXPLORESA #Gawler Challenge 
 ==============================
 
 Trainings, materials and template implementations for the ExploreSA Gawler Challenge.
-We are from a student team "RocketScience". Please let us know if you liked our simple tutorial on our data cleaning process by voting for us ;) as Team No. 1.
+
+Team "RocketScience" is proud to present this solution as part of the student community.
+
+Please let us know if you liked our simple tutorial on our data cleaning process by voting for us ;) as Team No. 1.
 
 As we joined around 4 days before the preprocessed data submission, we are still trying to analyse more on data. We will keep updating our changes here.
 Try your own algorithms and let us all crack the solution. 
